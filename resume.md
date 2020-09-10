@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Résumé
-subtitle: An awesome person
+title: 简介
+subtitle: 我的世界，我说了算
 ---
 
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>

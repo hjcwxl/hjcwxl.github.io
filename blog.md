@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Blog
-subtitle: Select ramblings of Pudhina
+title: 博客
+subtitle: 欢迎来到我的博客
 ---
 
 <div>
