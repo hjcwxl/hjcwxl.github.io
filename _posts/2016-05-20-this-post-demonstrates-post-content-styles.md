@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "This post demonstrates post content styles"
-subtitle: "This is a subtitle"
-date:   2016-05-20 21:21:21 +0530
-categories: junk
+title: "谁是你的菜？"
+subtitle: "肉的理想，白菜的命"
+date:   2020-09-10 21:21:21 +0530
+categories: 茫茫然
 author: "Bart Simpson"
 meta: "Springfield"
 ---
