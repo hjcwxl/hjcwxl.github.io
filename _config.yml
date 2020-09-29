@@ -1,5 +1,5 @@
 # Site settings
-title: 何俊聪的个人技术博客
+title: 洋葱的技术博客
 description: >
   A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
 
@@ -7,7 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://hjcwxl.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: Director he
+  fullname: Mr He
   github: github
   email: 2940467068@qq.com
 
