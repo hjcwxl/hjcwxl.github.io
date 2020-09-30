@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 简介
-subtitle: 我的世界，我说了算
+subtitle: 我的人生
 ---
 
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> 下载 PDF</strong></a> </span>
