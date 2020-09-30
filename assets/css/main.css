@@ -56,7 +56,7 @@
     float: left; }
 
   .logo {
-    font-size: 150%;
+    font-size: 180%;
     font-weight: 700;
     color: #16a085;
     display: block; }
@@ -95,7 +95,7 @@
 
   .page-title__text {
     font-weight: 700;
-    font-size: 150%; }
+    font-size: 110%; }
 
   .page-title__subtitle {
     font-weight: 400;
